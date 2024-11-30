@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.avatar-img {
+  border-radius: 50%; /* Makes the image circular */
+  width: 300px;      /* Adjust width to set the size */
+  height: 300px;     /* Adjust height to match width */
+  object-fit: cover; /* Ensures the image scales properly */
+  border: 2px solid #6c63ff; /* Optional: Add a border for styling */
+}
+.home-about-body ul {
+  margin: 10px 0;
+}
+
+.home-about-body ul li {
+  margin: 5px 0;
+  color: #c770f0; /* Purple color for bullet points */
+}
+
+.home-about-body ul li i {
+  color: white; /* Reset text color */
+}

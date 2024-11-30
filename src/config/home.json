@@ -1,0 +1,20 @@
+{
+    "name": "Mehul Kumar",
+    "description": "I am a final-year Bachelor's student in CSE at the Indian Institute of Information Technology, Vadodara.",
+    "languages": ["Go", "Python", "JavaScript", "Sql", "Dart", "Java"],
+    "interests": [
+      "Web Technologies and Products",
+      "Mobile App Development in Flutter",
+      "Building Scalable Backend Services",
+      "Building ETL Data Pipelines using Dagster, DBT, Airflow",
+      "Devops and CI/CD"
+    ],
+    "currentStatus": ["Currently I am working as an SDE at GobbleCube where I am working on building scalable backend services and data pipelines."],
+    "socialLinks": {
+      "github": "https://github.com/soumyajit4419",
+      "twitter": "https://twitter.com/Soumyajit4419",
+      "linkedin": "https://www.linkedin.com/in/soumyajit4419/",
+      "instagram": "https://www.instagram.com/soumyajit4419"
+    }
+  }
+  
