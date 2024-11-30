@@ -40,7 +40,7 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<Home2 data={data} />} />
+          <Route path="/" element={<About data={data} />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About data={data} />} />
           <Route path="/resume" element={<Resume />} />

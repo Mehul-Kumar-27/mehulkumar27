@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import CardElement from "./Card";
 
 function About({ data }) {
   if (!data) {
@@ -27,18 +28,8 @@ function About({ data }) {
             <Aboutcard data={data} />
           </Col>
         </Row>
-        <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
-        </h1>
-
-        <Techstack />
-
-        <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
-        </h1>
-        <Toolstack />
-
-        <Github />
+        <Github username={data.githubUsername}/>
+        <CardElement/>
       </Container>
     </Container>
   );
