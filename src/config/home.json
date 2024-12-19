@@ -1,21 +1,80 @@
 {
-    "name": "Mehul Kumar",
-    "image": "https://avatars.githubusercontent.com/u/97253470?v=4",
-    "description": "I am a final-year Bachelor's student in CSE at the Indian Institute of Information Technology, Vadodara.",
-    "languages": ["Go", "Python", "JavaScript", "Sql", "Dart", "Java"],
-    "interests": [
-      "Web Technologies and Products",
-      "Mobile App Development in Flutter",
-      "Building Scalable Backend Services",
-      "Building ETL Data Pipelines using Dagster, DBT, Airflow",
-      "Devops and CI/CD"
-    ],
-    "currentStatus": ["Currently I am working as a SDE at GobbleCube Technologies, where I build scalable backend services, data pipelines, data models and some times work on the frontend using React."],
-    "socialLinks": {
-      "github": "https://github.com/soumyajit4419",
-      "twitter": "https://twitter.com/Soumyajit4419",
-      "linkedin": "https://www.linkedin.com/in/soumyajit4419/",
-      "instagram": "https://www.instagram.com/soumyajit4419"
+  "name": "Mehul Kumar",
+  "image": "https://avatars.githubusercontent.com/u/97253470?v=4",
+  "description": "I am a final-year Bachelor's student in CSE at the Indian Institute of Information Technology, Vadodara.",
+  "languages": ["Go", "Python", "JavaScript", "Sql", "Dart", "Java"],
+  "interests": [
+    "Web Technologies and Products",
+    "Mobile App Development in Flutter",
+    "Building Scalable Backend Services",
+    "Building ETL Data Pipelines using Dagster, DBT, Airflow",
+    "Devops and CI/CD"
+  ],
+  "currentStatus": [
+    "Currently I am working as a SDE at GobbleCube Technologies, where I build scalable backend services, data pipelines, data models and some times work on the frontend using React."
+  ],
+  "socialLinks": {
+    "github": "https://github.com/Mehul-Kumar-27",
+    "twitter": "https://x.com/Mehul_Kumar_",
+    "linkedin": "https://www.linkedin.com/in/mehul-kumar-40bba7220/",
+    "email": "mehul2002kumar@gmail.com"
+  },
+  "githubUsername": "Mehul-Kumar-27",
+  "achievements": [
+    {
+      "title": "Google Summer of Code'23",
+      "imageLink": "https://camo.githubusercontent.com/04f63272c7e7709bd275e24de120e677afedabe810d0706b77de09d6b41cc2db/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3144464f7570717969644e5f7a76323070696e74554156317931464c572d4c7144",
+      "description": "During GSoC'23, I worked with the Libre Health Community on the project 'Neo Roo Application'. The application is used to track the vitals like respiratory rate, temperature, heartbeat of the premature infants and send notifications to the doctors in case of any abnormality.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/GSOC-23-Mehul-Kumar"
     },
-    "githubUsername": "Mehul-Kumar-27"
-  }
+    {
+      "title": "The Linux Foundation Mentorship Program' 24",
+      "imageLink": "https://lfx.linuxfoundation.org/wp-content/uploads/2023/01/logo_lfx_nopad.svg",
+      "description": "In this open source program I worked with the Harbor community on the project 'Harbor Satellite'. The project aims to bring the Container Registries to the edge locations and provide the ability to deploy the containers from the edge locations. I can also be used to provide a completely stateful registry to a stateless kubernetes cluster.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/LFX-24-Mehul-Kumar"
+    },
+    {
+      "title": "Winter Of Code' 23",
+      "imageLink": "https://gdsc-woc.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fd1c21b5b1aa249ba8706698beb44c11d%2Fassets%2Fcover%2F333.png&w=1440&q=100",
+      "description": "Durig Winter Of Code'23 I worked on developing 'Health Tracker' application matained by the IIIT Kalayani. I was among the top 20 contributors in the program.",
+      "type": "Link",
+      "link": "https://devfolio.co/projects/heath-tracker-application-0386"
+    },
+    {
+      "title": "Major League Hacking Hackathons Winner",
+      "imageLink": "data:image/png;base64,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",
+      "description": "During this hackathon I build the application 'Caravan', which provides the functionality to put you car on rent and also to rent a car. Users could also pool cars.The application was build using Flutter and Firebase.",
+      "type": "Link",
+      "link": "https://devpost.com/software/caravan-g0s21n"
+    }
+  ],
+  "projects": [
+    {
+      "title": "GoTrader",
+      "description": "GoTrader is a system of tracking the microservices through which one can track the stock prices. It consists of a scraper which would scrape the prices and dump the data into Apache Kafka. There is a store service which would read this data and would provide it to the server.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/GoTrader"
+    },
+    {
+      "title": "Email Servicing System",
+      "description": "Email servicing is a small system which would send the emails to the users. I consists of an authentication service, broker service and mailer service. The Email Servicing System is a lightweight application designed to send emails to users efficiently. It comprises three key components: an authentication service, a broker service, and a mailer service. The system is built using the Go programming language, ensuring high performance and reliability.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/emailservicing"
+    },
+    {
+      "title": "PriceLabRadar",
+      "description": "It is a project that aims to track the prices of the products on the amazon website. The project backend is written is express and the frontend is written in React. The project uses the puppeteer library to scrape the data from the website.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/PriceLabRadar"
+    },
+    {
+      "title": "Blockchain Voting System",
+      "description": "The project is a blockchain-based voting system that allows users to cast their votes securely. The system uses blockchain technology to ensure the integrity and security of the voting process. The project is built using the Ethereum blockchain and Solidity smart contracts, and Next.js for the frontend.",
+      "type": "GitHub Link",
+      "link": "https://github.com/Mehul-Kumar-27/blockchain-voting"
+    }
+  ],
+  "resume": "https://drive.google.com/file/d/1GGsmJ6zYe5Ah1Otg6yx_tDI8eadFFxr7/view?usp=sharing"
+}
